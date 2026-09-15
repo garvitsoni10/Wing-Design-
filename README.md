@@ -1,15 +1,15 @@
 # Wing-Design-
 Investigating how wing geometry affects aerodynamic performance through CAD, analysis, and experimental testing.
 
-Wing Design Study
+<h2> Wing Design Study </h2>
 
 An engineering investigation into how wing geometry affects aerodynamic performance.
 
-Project Question
+<h2> Project Question </h2>
 
 How does changing wing geometry affect aerodynamic performance?
 
-Objectives
+<h2> Objectives </h2>
 
 Learn the fundamentals of wing and airfoil geometry
 
@@ -25,26 +25,11 @@ Compare experimental results with theoretical predictions
 
 Iterate on the design based on evidence
 
-Tools
 
-Autodesk Fusion
-
-CAD
-
-Experimental testing
-
-Data analysis
-
-Project Status
-
-Current stage: Project planning
-
-Engineering Process
-
-The project will follow an iterative engineering process:
+<h2>  Engineering Process </h2>
 
 Research → Design → Predict → Build → Test → Analyse → Improve
 
-Project Log
+<h2> Project Log </h2>
 
-A chronological engineering journal will document the development of the project, including design decisions, problems, experiments, results, and iterations.
+
